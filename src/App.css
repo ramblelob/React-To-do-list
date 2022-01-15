@@ -25,6 +25,7 @@ header, form {
 form input {
   border: none;
   background: white;
+  height: 2rem;
 }
 
 form button {
@@ -144,7 +145,7 @@ select {
   position: absolute;
   top: 0;
   right: 0;
-  padding: 1rem;
+  padding: 0.5rem;
   background: #ff6f47;
   cursor: pointer;
   pointer-events: none;
